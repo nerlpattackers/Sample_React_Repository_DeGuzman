@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_DeGuzman/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_DeGuzman/static/js/main.e6570351.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_DeGuzman/static/js/787.eed000a1.chunk.js",
+    "static/media/ainz.png": "/Sample_React_Repository_DeGuzman/static/media/ainz.81c34dc20cd25d09d2f8.png",
+    "static/media/albedo.png": "/Sample_React_Repository_DeGuzman/static/media/albedo.61a73c385ee8985d0a2b.png",
+    "static/media/sebastian.png": "/Sample_React_Repository_DeGuzman/static/media/sebastian.6ae59456665297826460.png",
+    "static/media/demiurge.png": "/Sample_React_Repository_DeGuzman/static/media/demiurge.140f798d3e730ee98b16.png",
+    "static/media/shalltear.png": "/Sample_React_Repository_DeGuzman/static/media/shalltear.e386b12d559bce38d0f7.png",
+    "index.html": "/Sample_React_Repository_DeGuzman/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_DeGuzman/static/css/main.88404e20.css.map",
+    "main.e6570351.js.map": "/Sample_React_Repository_DeGuzman/static/js/main.e6570351.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_DeGuzman/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.e6570351.js"
+  ]
+}
